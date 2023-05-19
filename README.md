@@ -1,5 +1,5 @@
 # Parcial-Final-POO
-Presentación Final Programación orientada a Objetos
+Presentación parcial Final Programación orientada a Objetos
 # ¿Como usar?
 Crear objetos necesarios:
 
