@@ -90,3 +90,5 @@ class Residuos:
         self.organicos = organicos
 
 
+####################################################3
+#Ingresar codigo para probar:
